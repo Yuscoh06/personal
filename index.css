@@ -59,12 +59,12 @@
   position: absolute;
   width: 100%;
   z-index: 1;
-  left: 0;
-  top: 0;
+  left: 1rem;
+  top: 1rem;
   width: 5em;
   line-height: 5em;
-  font-size: 0.2em;
-  color: aliceblue;
+  font-size: 18px;
+  color: rgb(255, 221, 109);
   display: block;
   text-align: center;
 }
